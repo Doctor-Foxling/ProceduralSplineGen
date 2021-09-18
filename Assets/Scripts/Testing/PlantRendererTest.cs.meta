@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 286171f1661a120488cf7c2d1d1bbbc4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - branchMaterial: {fileID: 2100000, guid: 27dcd82d6bb65bc4aafd6ed268c78b3d, type: 2}
+  - leafMaterial: {fileID: 2100000, guid: b84b88b8888c50c4595ebdf730b8bec3, type: 2}
+  - flowerMaterial: {fileID: 2100000, guid: 735676bddd5b88b4fb486df26fb9edd3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
